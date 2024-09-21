@@ -8,6 +8,11 @@ Responsive UI that updates with the calculation result
 
 ## Useful scripts
 ---
+### Install Dependencies
+
+```bash
+npm install
+```
 ### Run in Dev Mode
 
 ```bash
