@@ -1,5 +1,5 @@
 # Calculator
-A simple calculator built with React.js for the frontend and Node.js (Express) for the backend. This calculator supports basic addition and subtraction functions. When a user inputs two numbers and selects either Add or Subtract, a POST request is sent to the backend, where the calculation is processed and the result is returned to the frontend for display.
+A simple calculator built with React.js for the frontend and Node.js (Express) for the backend. This calculator supports basic addition and subtraction functions. When a user inputs two numbers and selects either Add or Subtract, a POST request using urlencoding is sent to the backend, where the calculation is processed and the result is returned to the frontend for display.
 
 ## Features
 Addition and Subtraction operations
